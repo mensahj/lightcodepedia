@@ -19,9 +19,9 @@ Future date: **2027**
 
 ## My Preferred Pets
 
-1. Dogs
 1. Cats
-1. Other animals
+1. Dogs
+1. Hamsters
 
 ## Experience
 
@@ -33,3 +33,8 @@ Future date: **2027**
 ## Contact
 Email:
 [mensahj@uwm.edu](mailto:mensahj@uwm.edu)
+
+
+## Me and my cat!
+
+![Jennifer Mensah](https://i.ibb.co/KJZD16Q/IMG-3248.jpg)
